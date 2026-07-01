@@ -1,0 +1,6 @@
+{
+  "name": "Animal Call",
+  "description": "An interactive, beautiful children's application for making simulated voice calls to animals, featuring authentic sounds, custom avatars, and stickers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
